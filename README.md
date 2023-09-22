@@ -13,4 +13,4 @@ This is a simple implementation of the classic Tic-Tac-Toe game using React and 
 - React: JavaScript library for building user interfaces.
 - Vite: Build tool that enhances the development experience with fast and efficient builds.
 - SCSS: Styling the game interface using Sass.
-- Git: Version control system for tracking changes in the project.
+- Git: Version control system for tracking changes in the project
